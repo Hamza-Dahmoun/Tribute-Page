@@ -8,6 +8,8 @@ html, body{
 }
 body{
     padding: 1%;
+    padding-bottom: 0%;
+    padding-top: 0%;
     font-family:var(--font-family);
     background-color: var(--white-color);
   }
