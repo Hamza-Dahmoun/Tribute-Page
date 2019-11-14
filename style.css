@@ -1,0 +1,38 @@
+body{
+    font-family:"arial";
+  }
+  img{
+    max-width:100%;
+    display:block;
+    height:auto;
+    margin-left:auto;margin-right:auto
+  }
+  p, h1, figcaption{
+    text-align:center;
+  }
+  main{
+    background-color:#efefef;
+    padding:10px;
+    border-radius:8px;
+  }
+  figure{
+    background-color:#fff;
+    border-radius:5px;
+  }
+  figcaption{
+    text-align:center;
+  }
+  ul{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    tex-align:left;
+  }
+  li{
+    margin-top:2%;
+    margin-bottom:2%;
+  }
+  #tribute-link-paragh{
+    margin-top:10%;
+  }
+  
