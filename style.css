@@ -97,7 +97,9 @@ body{
       } 
 }
 
-
+#img-div{
+    margin-top: 10%;margin-bottom:10%;
+}
   figure{
     width: 70%;margin-left: auto; margin-right:auto;
     background-color: white;;
