@@ -19,10 +19,15 @@ body{
     border-radius:3px;
     color:var(--white-color);
     text-align:center;
-  }/*
-  p, h1, figcaption{
-    text-align:center;
-  }*/
+  }
+  h1{
+      font-size:40px;
+      letter-spacing: 5px;
+  }
+  p{      
+    font-size:30px;
+    letter-spacing: 4px;
+  }
   img{
     max-width:100%;
     display:block;
