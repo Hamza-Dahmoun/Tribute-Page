@@ -1,7 +1,7 @@
 :root {
     --font-family: 'Nanum Gothic', sans-serif;
     --white-color: #fff;
-    --dark-gray-color:#555;
+    --dark-gray-color:#2E2E2E/*#1C1C1C*//*#555*/;
 }
 html, body{
     margin: 0%;
