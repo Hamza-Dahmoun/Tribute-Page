@@ -41,6 +41,28 @@ body{
       letter-spacing: 5px;
       margin-bottom:4%;
   }
+  @media screen and (max-width: 800px){
+      h1{
+        font-size:38px;
+        letter-spacing: 4px;
+      }
+  }
+  @media screen and (max-width: 500px){
+    h1{
+        font-size:36px;
+        letter-spacing: 3px;
+      }
+  }
+  @media screen and (max-width: 300px){
+    h1{
+        font-size:30px;
+      }
+  }
+  @media screen and (max-width: 230px){
+    h1{
+        font-size:28px;
+      }
+  }
   p{      
     font-size:30px;
     letter-spacing: 4px;
