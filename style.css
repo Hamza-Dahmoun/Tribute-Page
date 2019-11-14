@@ -68,6 +68,10 @@ body{
   ul a{
       color: var(--link-color);
   }
+  ul strong{
+    word-spacing: 3px;
+    letter-spacing: 2px;
+  }
   #tribute-link-paragh, #tribute-link{
     font-size: 17px;
     margin-bottom:0%;
