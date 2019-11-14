@@ -196,6 +196,32 @@ body{
     margin-top:4.5%;
     margin-bottom:4.5%;
   }
+  @media screen and (max-width: 800px){
+    li{
+        margin-top:6%;
+        margin-bottom:6%;
+      }
+  }
+  @media screen and (max-width: 600px){
+    li{
+        margin-top:7%;
+        margin-bottom:7%;
+      }
+  }
+  @media screen and (max-width: 400px){
+    li{
+        margin-top:8%;
+        margin-bottom:8%;
+      }
+  }
+  @media screen and (max-width: 300px){
+    li{
+        margin-top:9%;
+        margin-bottom:9%;
+      }
+  }
+
+  
   ul a{
       color: var(--link-color);
   }
