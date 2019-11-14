@@ -2,6 +2,7 @@
     --font-family: 'Nanum Gothic', sans-serif;
     --white-color: #fff;
     --dark-gray-color:#2E2E2E/*#1C1C1C*//*#555*/;
+    --link-color:#848484;
 }
 html, body{
     margin: 0%;
@@ -64,9 +65,15 @@ body{
     margin-top:4.5%;
     margin-bottom:4.5%;
   }
+  ul a{
+      color: var(--link-color);
+  }
   #tribute-link-paragh, #tribute-link{
     font-size: 17px;
     margin-bottom:0%;
     margin-top: 10%;
+  }
+  #tribute-link{
+      color:var(--link-color);
   }
   
