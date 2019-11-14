@@ -145,7 +145,7 @@ body{
 
 
   ul{
-    width:50%;
+    width:70%;
     margin-left:auto;
     margin-right:auto;
     margin-bottom:4%;
@@ -155,6 +155,43 @@ body{
     letter-spacing: 1px;
     line-height: 24px;
   }
+  @media screen and (max-width: 1000px){
+    ul{
+        width: 85%;
+        font-size:17px;
+        word-spacing: 3px;
+        letter-spacing: 1px;
+        line-height: 23px;
+      }  
+}
+@media screen and (max-width: 650px){
+    ul{
+        width: 90%;
+        font-size:15px;
+        word-spacing: 3px;
+        letter-spacing: 1px;
+        line-height: 21px;
+        padding-left: 0%;
+      }
+}
+@media screen and (max-width: 300px){
+    ul{
+        width: 95%;
+        font-size:14px;
+        word-spacing: 3px;
+        letter-spacing: 1px;
+        line-height: 20px;
+      }
+}
+@media screen and (max-width: 230px){
+    ul{
+        width: 98%;
+        font-size:13px;
+        word-spacing: 3px;
+        letter-spacing: 1px;
+        line-height: 18px;
+      }  
+}
   li{
     margin-top:4.5%;
     margin-bottom:4.5%;
