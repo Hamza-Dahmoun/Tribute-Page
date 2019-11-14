@@ -1,5 +1,9 @@
+:root {
+    /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;*/
+    font-family: 'Nanum Gothic', sans-serif;
+}
 body{
-    font-family:"arial";
+    font-family:var(--font-family);
   }
   img{
     max-width:100%;
