@@ -240,6 +240,26 @@ body{
     margin-bottom:0%;
     margin-top: 10%;
   }
+  @media screen and (max-width: 1000px){
+    #tribute-link-paragh, #tribute-link{
+        font-size: 16px;
+      }  
+}
+@media screen and (max-width: 650px){
+    #tribute-link-paragh, #tribute-link{
+        font-size:15px;
+      }
+}
+@media screen and (max-width: 300px){
+    #tribute-link-paragh, #tribute-link{
+        font-size:12px;
+      }
+}
+@media screen and (max-width: 230px){
+    #tribute-link-paragh, #tribute-link{
+        font-size:11px;
+      }  
+}
   #tribute-link{
       color:var(--link-color);
   }
